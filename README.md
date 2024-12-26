@@ -2,9 +2,9 @@
 
  ### Key Features
 1. Three Pipeline Stages:
-### Fetch (IF): The instruction is fetched from memory.
-### Decode (ID): The fetched instruction is decoded, and operands are retrieved from registers.
-### Execute (EX): The decoded instruction is executed, with results being computed and forwarded to memory or registers.
+Fetch (IF): The instruction is fetched from memory.
+Decode (ID): The fetched instruction is decoded, and operands are retrieved from registers.
+Execute (EX): The decoded instruction is executed, with results being computed and forwarded to memory or registers.
 2. Improved Throughput:
 The 3-stage pipeline increases the throughput by allowing multiple instructions to be processed simultaneously at different stages, improving overall instruction execution speed.
 3. Simplified Design:
